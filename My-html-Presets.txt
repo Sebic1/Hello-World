@@ -19,10 +19,10 @@ Basic:
 
 Header Links (my ones):
 <p>
-  <a href='index.html'>home</a> <a href="aboutme.html">about me</a>
+  <a href='index.html'>home</a> <a href="aboutme.html">about me</a> <a href="change-log.html>change log</a>
 </p>
 
-Header Links:
+Header Links (for you to use):
 <p>                                         <!--always have a space here \/ --->
   <a href="<!--Here goes your link-->"><!--Here goes the link text--></a> <a href=""></a>
 </p>                                                   <!--repeat for more links /\--->
