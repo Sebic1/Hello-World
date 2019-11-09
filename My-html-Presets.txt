@@ -4,8 +4,6 @@ Basic:
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-    </style>
     <title>
     </title>
   </head>
