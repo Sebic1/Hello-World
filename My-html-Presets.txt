@@ -19,7 +19,7 @@ Basic:
 
 Header Links (my ones):
 <p>
-  <a href='index.html'>home</a> <a href="aboutme.html">about me</a> <a href="change-log.html>change log</a>
+  <a href='index.html'>home</a> <a href="aboutme.html">about me</a> <a href="change-log.html">change log</a>
 </p>
 
 Header Links (for you to use):
