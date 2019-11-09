@@ -1,0 +1,28 @@
+I made all of these, but you are welcome to use any!
+
+Basic:
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    </title>
+  </head>
+  <body>
+    <header>
+    </header>
+    <main>
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
+
+Header Links (my ones):
+<p>
+  <a href='index.html'>home</a> <a href="aboutme.html">about me</a>
+</p>
+
+Header Links:
+<p>                                         <!--always have a space here \/ --->
+  <a href="<!--Here goes your link-->"><!--Here goes the link text--></a> <a href=""></a>
+</p>                                                   <!--repeat for more links /\--->
